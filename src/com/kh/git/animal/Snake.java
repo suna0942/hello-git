@@ -9,4 +9,8 @@ public class Snake {
     System.out.println("스으으으");
   }
   
+  public void eat() {
+    System.out.println("뇸뇸");
+  }
+  
 }
