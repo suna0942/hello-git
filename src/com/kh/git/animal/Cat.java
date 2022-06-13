@@ -1,7 +1,7 @@
 package com.kh.git.animal;
 
 public class Cat {
-	public void bark() {
+	public void miao() {
 		System.out.println("미야옹~");
 	}
 }

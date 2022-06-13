@@ -11,8 +11,9 @@ public class HelloGit {
 		// Dog 기능 추가
 		Dog dog = new Dog();
 		dog.bark();
+		// Cat 기능 추가
 		Cat cat = new Cat();
-		cat.bark();
+		cat.miao();
 	}
 
 	
